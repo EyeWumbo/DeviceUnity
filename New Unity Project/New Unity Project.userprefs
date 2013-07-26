@@ -1,12 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script Assets\NukeButtonBehavior.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script Assets\PlayerActivity.js">
     <Files>
-      <File FileName="Assets\Script Assets\NukeButtonBehavior.js" Line="30" Column="3" />
-      <File FileName="Assets\Script Assets\onClickTut.js" Line="16" Column="23" />
+      <File FileName="Assets\Script Assets\NukeButtonBehavior.js" Line="34" Column="4" />
+      <File FileName="Assets\Script Assets\onClickTut.js" Line="23" Column="5" />
       <File FileName="Assets\Script Assets\onClickMain.js" Line="1" Column="1" />
       <File FileName="Assets\Script Assets\NewBehaviourScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Script Assets\PlayerActivity.js" Line="2" Column="1" />
+      <File FileName="Assets\Script Assets\PlayerActivity.js" Line="12" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
