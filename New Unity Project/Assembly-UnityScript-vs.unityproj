@@ -47,6 +47,7 @@
      <Compile Include="Assets\Script Assets\NewBehaviourScript.js" />
      <Compile Include="Assets\Script Assets\NukeButtonBehavior.js" />
      <Compile Include="Assets\Script Assets\PlayerActivity.js" />
+     <Compile Include="Assets\Script Assets\PlayerAnimation.js" />
      <Compile Include="Assets\Script Assets\onClickMain.js" />
      <Compile Include="Assets\Script Assets\onClickTut.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
