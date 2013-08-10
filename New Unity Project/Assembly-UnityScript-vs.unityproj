@@ -44,9 +44,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script Assets\DeviceBehavior.js" />
+     <Compile Include="Assets\Script Assets\MonsterActivity.js" />
+     <Compile Include="Assets\Script Assets\MonsterSpawner.js" />
      <Compile Include="Assets\Script Assets\NewBehaviourScript.js" />
      <Compile Include="Assets\Script Assets\NukeButtonBehavior.js" />
-     <Compile Include="Assets\Script Assets\PlayerActivity.js" />
      <Compile Include="Assets\Script Assets\PlayerAnimation.js" />
      <Compile Include="Assets\Script Assets\onClickMain.js" />
      <Compile Include="Assets\Script Assets\onClickTut.js" />
