@@ -1,15 +1,23 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script Assets\MonsterActivity.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script Assets\PlayerAnimation.js">
     <Files>
-      <File FileName="Assets\Script Assets\DeviceBehavior.js" Line="14" Column="48" />
-      <File FileName="Assets\Script Assets\MonsterActivity.js" Line="6" Column="15" />
+<<<<<<< HEAD
+      <File FileName="Assets\Script Assets\PlayerAnimation.js" Line="101" Column="4" />
+      <File FileName="Assets\Script Assets\DeviceBehavior.js" Line="1" Column="1" />
+      <File FileName="Assets\Script Assets\MonsterActivity.js" Line="12" Column="43" />
+=======
+      <File FileName="Assets\Script Assets\PlayerActivity.js" Line="4" Column="2" />
+>>>>>>> de3b6f403ed832fdf54672f26ec53b0886a42618
       <File FileName="Assets\Script Assets\NukeButtonBehavior.js" Line="1" Column="1" />
       <File FileName="Assets\Script Assets\onClickTut.js" Line="1" Column="1" />
       <File FileName="Assets\Script Assets\onClickMain.js" Line="1" Column="1" />
       <File FileName="Assets\Script Assets\NewBehaviourScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Script Assets\PlayerAnimation.js" Line="52" Column="20" />
+<<<<<<< HEAD
       <File FileName="Assets\Script Assets\MonsterSpawner.js" Line="55" Column="34" />
+=======
+      <File FileName="Assets\Script Assets\PlayerAnimation.js" Line="23" Column="20" />
+>>>>>>> de3b6f403ed832fdf54672f26ec53b0886a42618
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
