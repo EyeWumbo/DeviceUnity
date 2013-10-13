@@ -1,8 +1,6 @@
-var playerWalkSpeed = 1;
+var playerWalkSpeed = .5;
 
 var playerObject:GameObject;
-
-
 
 var end: Vector3;
 var isMoving = false;
@@ -10,14 +8,12 @@ var dir: Vector3;
 var dest: Vector3;
 var player: Rect; 
 
-var walks = [];
-
 var walkAnimations: Array;
 var purging = false;
 var target: GameObject;
 
 /////Number of update cycles before it moves on to the next animation frame
-final var ANIMATION_DELAYPERFRAME = 3;
+final var ANIMATION_DELAYPERFRAME = 4;
 
 /////Number of columns and rows
 final var SPRITESHEET_HEROES_X = 6;
